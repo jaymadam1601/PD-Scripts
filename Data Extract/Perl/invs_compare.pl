@@ -2,7 +2,7 @@
 
 ##############################################################################
 # Script Name: invs_compare.pl
-# Author: Jay Madam
+# Author: Jay Madam (jjmadma18@gmail.com)
 #
 # Description:
 # This Perl script is designed to compare physical design metrics across
