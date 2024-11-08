@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 ###############################################################################
-# Script Name: Script to comapre multiple recipe of one block
+# Script Name: compare_vt_power.pl
 # Author: Jay Madam (jjmadam18@gmail.com)
 #
 # Description:
